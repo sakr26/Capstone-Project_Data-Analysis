@@ -3,6 +3,12 @@
 This project was developed as the **Capstone Project** of the 12-week **Data Analytics Bootcamp at Spiced Academy**.  
 The goal was to create a tool for **Cinch** to provide better insights into their customers’ logistics expenses.  
 
+## 🎥 Project Demo
+
+![Project Demo](assets/Tableau-project.gif)
+
+> The GIF above shows a short demonstration of the tool in action, illustrating dynamic carrier ranking and interactive visualizations.
+
 ## 🔎 Project Overview  
 
 The tool dynamically ranks carriers based on:  
