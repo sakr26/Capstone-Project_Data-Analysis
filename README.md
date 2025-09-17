@@ -5,7 +5,7 @@ The goal was to create a tool for **Cinch** to provide better insights into thei
 
 ## 🎥 Project Demo
 
-![Project Demo](assets/Tableau-project.gif)
+![Project Demo](assets/assets/Tableau-project.gif)
 
 > The GIF above shows a short demonstration of the tool in action, illustrating dynamic carrier ranking and interactive visualizations.
 
